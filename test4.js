@@ -1,4 +1,4 @@
-// 4 Vowel Count --------------------
+// 4 Vowel Count ------------------------------
 function vowelCount(string){
   var vowels = ['a','e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U']
   var count = 0
@@ -14,3 +14,5 @@ function vowelCount(string){
 var sentence = "I'm sleepy all of the time"
 
 vowelCount(sentence)
+
+//---------------------------------------------
